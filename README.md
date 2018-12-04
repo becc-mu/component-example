@@ -5,6 +5,6 @@ This repo is an example to help give insight to the MakersBnb team on making com
 ### setup
 clone the repo
 ```
-git clone https://github.com/toddpla/component-example/
+https://github.com/toddpla/component-example.git
 ```
 then run the index.html file in the browser
